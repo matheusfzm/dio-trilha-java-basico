@@ -1,5 +1,5 @@
-public class App {
-    public static void main(String[] args) throws Exception {
+public class variaveis {
+    public static void main(String[] args)  {
         //double salarioMinimo = 2500;
 
 
@@ -11,6 +11,7 @@ public class App {
         //int numero = 5;
 
 
-       
+
+        
     }
 }
